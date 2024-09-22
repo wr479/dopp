@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d8bb9b1ee8efde56",
+    "type": "split",
+    "children": [
+      {
+        "id": "869f4ed0ff0113e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf85ce2c0e087786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Допп по верстке(Frontend(2 курс)).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "446036e462681d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6cdc3c3e2d497f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f90c874bab5703b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a51df3f1348207e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d19cce0afe527c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9490a8b5850d350b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4593fbfeb0cb1935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a3ef8bbc1f0bb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Допп по верстке(Frontend(2 курс)).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2e64e68d7e18ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Допп по верстке(Frontend(2 курс)).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "678237d80a1db263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "167711258decece5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Допп по верстке(Frontend(2 курс)).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cf85ce2c0e087786",
+  "lastOpenFiles": [
+    "Допп по верстке(Frontend(2 курс)).md"
+  ]
+}
